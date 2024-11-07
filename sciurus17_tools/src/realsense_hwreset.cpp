@@ -4,14 +4,14 @@
 #include <unistd.h>
 
 
-/* メイン処理 */
+/* Main */
 int main(int argc, char **argv)
 {
     rs2::context ctx;
 
     for( auto&& dev : ctx.query_devices() ){
-        // 取得したすべてのデバイスにリセットを発行する
+        // Send a reset to all found devices
         dev.hardware_reset();
-        sleep( 1 );// 再接続待ち
+        sleep( 1 );// Waiting for reconnection
     }
 }

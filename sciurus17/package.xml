@@ -4,15 +4,14 @@
   <description>
     ROS package suite of Sciurus17
   </description>
-  <maintainer email="shop@rt-net.jp">RT Corporation</maintainer>
+  <maintainer email="andrea.gavazzi@me.com">agRobotics</maintainer>
   <author email="nomura@rt-net.jp">Hiroyuki Nomura</author>
-  <author email="vghjjj@gmail.com">Shota Hirama</author>
+
 
   <license>Apache License 2.0</license>
 
   <url type="website">http://wiki.ros.org/sciurus17_ros</url>
-  <url type="bugtracker">https://github.com/rt-net/sciurus17_ros/issues</url>
-  <url type="repository">https://github.com/rt-net/sciurus17_ros</url>
+  <url type="repository">https://https://github.com/andreagavazzi/sciurus17_ros</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>sciurus17_control</run_depend>

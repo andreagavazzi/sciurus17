@@ -41,7 +41,6 @@ Please see below for details.
   ```
 
 - Download [sciurus17_description](https://github.com/rt-net/sciurus17_description) package.
-The RT Corporation's [NON-COMMERCIAL LICENSE](https://github.com/rt-net/sciurus17_description/blob/main/LICENSE) applies to the package.
 
   ```bash
   cd ~/catkin_ws/src
@@ -63,7 +62,7 @@ The RT Corporation's [NON-COMMERCIAL LICENSE](https://github.com/rt-net/sciurus1
   source ~/catkin_ws/devel/setup.bash
   ```
 
-### Device Setup
+### Setup
 
 Apply udev rules with the following commands to enable communication between `sciurus17_control` and Sciurus17.
 
@@ -71,8 +70,8 @@ Apply udev rules with the following commands to enable communication between `sc
 roscd sciurus17_tools/scripts/
 ./create_udev_rules
 ```
-Reboot the PC after running the script to update the udev rules.
-After rebooting, the new device `/dev/sciurus17spine` will be created.
+Reboot the PC to update the udev rules.
+The new device will be crea `/dev/sciurus17spine`
 
 ## About Sciurus17 packages
 

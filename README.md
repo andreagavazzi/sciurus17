@@ -24,9 +24,8 @@ Please see below for details.
 - ROS Noetic
   - OS: Ubuntu 20.04.3 LTS
 
-### ROS 2
-
-- [Humble](https://github.com/rt-net/sciurus17_ros/tree/humble-devel)
+- ROS 2
+  - [Humble](https://github.com/rt-net/sciurus17_ros/tree/humble-devel)
 
 ## Installation
 

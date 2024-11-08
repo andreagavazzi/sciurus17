@@ -14,7 +14,7 @@ ROS Wiki:
 [https://wiki.ros.org/sciurus17](https://wiki.ros.org/sciurus17)
 
 Examples:  
-[sciurus17_examples](https://github.com/rt-net/sciurus17_ros/tree/master/sciurus17_examples/README.en.md)
+[sciurus17_examples](./sciurus17_examples/README.en.md).
 
 ## System Requirements
 

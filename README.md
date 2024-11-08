@@ -142,12 +142,4 @@ roslaunch sciurus17_gazebo sciurus17_with_table.launch
 This package includes example codes for Sciurus17.
 Please refer to [./sciurus17_examples/README.en.md](./sciurus17_examples/README.en.md).
 
-## License
 
-(C) 2018 RT Corporation \<support@rt-net.jp\>
-
-This repository is licensed under the Apache License, Version 2.0, see [LICENSE](./LICENSE).  
-Unless attributed otherwise, everything in this repository is under the Apache License, Version 2.0.
-
-The sciurus17_ros depends on [sciurus17_description](https://github.com/rt-net/sciurus17_description) package.
-The RT Corporation's [NON-COMMERCIAL LICENSE](https://github.com/rt-net/sciurus17_description/blob/main/LICENSE) applies to the package.

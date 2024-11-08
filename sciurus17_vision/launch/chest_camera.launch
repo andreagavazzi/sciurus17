@@ -5,7 +5,7 @@
       <param name="vendor" command="rosrun sciurus17_tools get_chest_camera_vendor_id"/>
       <param name="product" command="rosrun sciurus17_tools get_chest_camera_product_id"/>
 
-      <!-- Image size and type -->
+      <!-- Image size and format -->
       <param name="width" value="1280"/>
       <param name="height" value="720"/>
       <!-- choose whichever uncompressed format the camera supports: -->

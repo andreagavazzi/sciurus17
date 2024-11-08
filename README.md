@@ -18,11 +18,9 @@ Examples:
 
 ## System Requirements
 
-These packages have been developed and tested on ROS Melodic & Noetic.
+These packages have been developed and tested on ROS Noetic.
 Please see below for details.
 
-- ROS Melodic
-  - OS: Ubuntu 18.04.3 LTS
 - ROS Noetic
   - OS: Ubuntu 20.04.3 LTS
 

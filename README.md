@@ -31,9 +31,9 @@ Please see below for details.
 
 ### Build from source
 
-- Install ROS environments. Please see [ROS Wiki](http://wiki.ros.org/noetic/Installation/Ubuntu).
+- Install ROS environments.
 
-- Download the packages for Sciurus17 using `git`.
+- Download the packages for Sciurus17
 
   ```bash
   cd ~/catkin_ws/src
@@ -73,7 +73,7 @@ roscd sciurus17_tools/scripts/
 Reboot the PC to update the udev rules.
 The new device will be crea `/dev/sciurus17spine`
 
-## About Sciurus17 packages
+## Sciurus17 packages
 
 ### sciurus17_control
 

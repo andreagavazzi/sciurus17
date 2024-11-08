@@ -2,11 +2,10 @@
 <package format="2">
   <name>sciurus17_bringup</name>
   <version>2.0.0</version>
-  <description>The sciurus17_bringup package</description>
+  <description>Sciurus17_bringup package</description>
 
-  <maintainer email="shop@rt-net.jp">RT Corporation</maintainer>
-  <author email="nomura@rt-net.jp">Hiroyuki Nomura</author>
-  <author email="vghjjj@gmail.com">Shota Hirama</author>
+  <maintainer email="andrea.gavazzi@me.com">agRobotics</maintainer>
+  <author email="andrea.gavazzi@me.com">Andrea Gavazzi</author>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>

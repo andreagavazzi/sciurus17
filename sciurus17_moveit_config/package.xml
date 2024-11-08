@@ -5,8 +5,8 @@
   <description>
      An automatically generated package with all the configuration and launch files for using the sciurus17 with the MoveIt! Motion Planning Framework
   </description>
-  <maintainer email="shop@rt-net.jp">RT Corporation</maintainer>
-  <author email="nomura@rt-net.jp">Hiroyuki Nomura</author>
+  <maintainer email="andrea.gavazzi@me.com">agRobotics</maintainer>
+  <author email="ndrea.gavazzi@me.com">Andrea Gavazzi</author>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>

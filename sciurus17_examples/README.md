@@ -1,5 +1,3 @@
-[English](README.en.md) | [日本語](README.md)
-
 # sciurus17_examples
 
 This package includes examples to control Sciurus17 using `sciurus17_ros`.

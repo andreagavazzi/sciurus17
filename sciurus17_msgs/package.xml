@@ -4,9 +4,8 @@
   <version>2.0.0</version>
   <description>The sciurus17_msgs package</description>
 
-  <maintainer email="shop@rt-net.jp">RT Corporation</maintainer>
-  <author email="nomura@rt-net.jp">Hiroyuki Nomura</author>
-  <author email="vghjjj@gmail.com">Shota Hirama</author>
+  <maintainer email="andrea.gavazzi@me.com">agRobotics</maintainer>
+  <author email="andrea.gavazzi@me.com">Andrea Gavazzi</author>
   <license>Apache License 2.0</license>
 
   <build_depend>message_generation</build_depend>

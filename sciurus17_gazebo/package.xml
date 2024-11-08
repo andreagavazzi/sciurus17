@@ -4,8 +4,8 @@
   <version>2.0.0</version>
   <description>The sciurus17_gazebo package</description>
 
-  <maintainer email="shop@rt-net.jp">RT Corporation</maintainer>
-  <author email="nomura@rt-net.jp">Hiroyuki Nomura</author>
+  <maintainer email="andrea.gavazzi@me.com">agRobotics</maintainer>
+  <author email="andrea.gavazzi@me.com">Andrea Gavazzi</author>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>

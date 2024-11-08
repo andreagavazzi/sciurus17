@@ -66,31 +66,6 @@ The RT Corporation's [NON-COMMERCIAL LICENSE](https://github.com/rt-net/sciurus1
   source ~/catkin_ws/devel/setup.bash
   ```
 
-### Upgrading to v2.x.x from v1.0.0 or earlier
-
-Please see 
-https://github.com/rt-net/sciurus17_ros/issues/134 
-for details of differences in the versions.
-
-Update the package with the following commands:
-
-```bash
-# Update sciurus17_ros
-cd ~/catkin_ws/src/sciurus17_ros
-git pull origin master
-
-# Download sciurus17_description package
-cd ~/catkin_ws/src
-git clone https://github.com/rt-net/sciurus17_description.git
-rosdep install -r -y --from-paths . --ignore-src
-
-# Clean up the workspace and rebuild packages
-# Note that other ROS packages in the workspace will also be rebuilt.
-cd ~/catkin_ws
-rm -r build devel
-catkin_make
-```
-
 ### Device Setup
 
 Apply udev rules with the following commands to enable communication between `sciurus17_control` and Sciurus17.
